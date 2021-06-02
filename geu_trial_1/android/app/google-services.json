@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "874924329450",
+    "project_id": "geutrial1",
+    "storage_bucket": "geutrial1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874924329450:android:0f0ce33733002a65e74a93",
+        "android_client_info": {
+          "package_name": "com.codingbot.geu_trial_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874924329450-5geh952oorku5suqrpj1cfg4nor3qko0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codingbot.geu_trial_1",
+            "certificate_hash": "50d82751f528fca1aae0487687025b816aeed81e"
+          }
+        },
+        {
+          "client_id": "874924329450-s1s5moigqha976h23igdan5lk197nm2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk_fkwpMHM-bruyPidEsgHsSjKlxgrwdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874924329450-s1s5moigqha976h23igdan5lk197nm2g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
