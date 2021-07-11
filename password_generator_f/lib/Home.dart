@@ -64,7 +64,7 @@ class _HomeState extends State<Home> {
                 child: TextButton(
                   onPressed: () {
 
-                    password = 'K' + textField.text + 'passt57-';
+                    password = textField.text
                     password = password.replaceAll('p', '/');
                     password = password.replaceAll('p', '/');
                     password = password.replaceAll('a', '#');
