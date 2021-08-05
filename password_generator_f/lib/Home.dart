@@ -66,10 +66,10 @@ class _HomeState extends State<Home> {
 
                     password = textField.text
                     password = password.replaceAll('p', '/');
-                    password = password.replaceAll('p', '/');
-                    password = password.replaceAll('a', '#');
-                    password = password.replaceAll('i', '_');
-                    password = password.replaceAll('I', '_');
+                    password = password.replaceAll('p', 'k');
+                    password = password.replaceAll('a', '(');
+                    password = password.replaceAll('i', '12');
+                    password = password.replaceAll('I', '+=');
                     print('password is $password');
                     setState(() {
                       if (textField.text == '') {
